@@ -1,0 +1,8 @@
+python manage.py startapp users
+added custom config in apps.py -- for adding the administrative things about an app like name etc
+create urls are at app level and add them in the url at the root level
+map the urls in the urls.py to the functions in the views.py
+	
+
+
+ 
